@@ -1,0 +1,66 @@
+{
+    "name": "auth-microservice",
+    "version": "0.1.0",
+    "private": false,
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/orassayag/auth-microservice.git"
+    },
+    "keywords": [
+        "node",
+        "node.js",
+        "auth",
+        "microservice",
+        "micro-service",
+        "eslint",
+        "airbnb",
+        "env",
+        "bluebird",
+        "dotenv",
+        "REST",
+        "API",
+        "REST API"
+    ],
+    "license": "UNLICENSED",
+    "author": "Or Assayag <orassayag@gmail.com>",
+    "contributors": [
+        {
+            "name": "Or Assayag",
+            "email": "orassayag@gmail.com",
+            "url": "https://github.com/orassayag"
+        }
+    ],
+    "main": "src/index.js",
+    "files": [
+        "src",
+        ".eslintignore",
+        ".eslintrc",
+        ".gitignore",
+        ".gitattributes",
+        ".jsbeautifyrc",
+        ".npmignore",
+        "INSTRUCTIONS.md",
+        "package-lock.json",
+        "package.json",
+        "README.md"
+    ],
+    "engines": {
+        "node": ">=8",
+        "yarn": "*"
+    },
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "bluebird": "^3.7.2",
+        "cross-env": "^7.0.3",
+        "dotenv-safe": "^8.2.0",
+        "eslint": "^7.27.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.23.4"
+    },
+    "devDependencies": {
+        "@types/node": "^15.6.1"
+    }
+}
