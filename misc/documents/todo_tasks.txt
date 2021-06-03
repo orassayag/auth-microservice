@@ -12,6 +12,7 @@ Each time you change the logic / update NPM package version, do the following st
 ToDo tasks:
 ===========
 -Re-arrange key words on package.json.
+-Add all the key words in the project's settings on GitHub, once you done.
 
 Complete / canceled tasks:
 ==========================
