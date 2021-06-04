@@ -6,9 +6,9 @@ const logger = winston.createLogger({
     format: winston.format.json(),
     transports: [
         // Write all logs error (and below) to the 'error.log' file.
-        new winston.transports.File({ filename: 'error.log', level: 'error' }),
+        new winston.transports.File({ filename: '../../errors/error.log', level: 'error' }),
         // Write to all logs with level 'info' and below to the 'combined.log' file.
-        new winston.transports.File({ filename: 'combined.log' })
+        new winston.transports.File({ filename: '../../errors/combined.log' })
     ]
 });
 

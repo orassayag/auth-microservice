@@ -13,6 +13,7 @@ ToDo tasks:
 ===========
 -Re-arrange key words on package.json.
 -Add all the key words in the project's settings on GitHub, once you done.
+-Add one place to configure all min and max lengths, and take all from there.
 
 Complete / canceled tasks:
 ==========================

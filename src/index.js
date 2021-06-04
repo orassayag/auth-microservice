@@ -1,18 +1,21 @@
-// Make bluebird default Promise.
+// Set Bluebird promise to be the default promise.
 Promise = require('bluebird'); // eslint-disable-line no-global-assign
 const logger = require('./config/logger.config');
 // Set error handling.
 require('./config/error.config')();
 const { port, env } = require('./config/vars.config');
 const app = require('./config/express.config');
+const mongoose = require('./config/mongoose.config');
 
-// Open the mongoose connection.
+// Open the Mongoose connection.
 mongoose.connect();
 
 // Initiate the server.
 const server = app.listen(port, () => logger.info(`Server started on port ${port} (${env}).`));
+
+// Setting gracefully shutting down in case of error
+// (for development, not to override the port).
 if (env === 'development') {
-    // Setting gracefully shutting down in case of error (Good for development).
     const shutDown = () => {
         logger.info('Received kill signal, shutting down gracefully.');
         server.close(() => {
