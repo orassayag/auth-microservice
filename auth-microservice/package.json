@@ -61,9 +61,6 @@
         "cross-env": "^7.0.3",
         "death": "^1.1.0",
         "dotenv-safe": "^8.2.0",
-        "eslint": "^7.27.0",
-        "eslint-config-airbnb-base": "^14.2.1",
-        "eslint-plugin-import": "^2.23.4",
         "express": "^4.17.1",
         "express-validation": "^3.0.8",
         "helmet": "^4.6.0",
@@ -73,12 +70,15 @@
         "lodash": "^4.17.21",
         "method-override": "^3.0.0",
         "moment-timezone": "^0.5.33",
-        "mongoose": "^5.12.12",
+        "mongoose": "^5.13.1",
         "passport": "^0.4.1",
         "randombytes": "^2.1.0",
         "winston": "^3.3.3"
     },
     "devDependencies": {
-        "@types/node": "^15.6.1"
+        "eslint": "^7.30.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.23.4",
+        "@types/node": "^16.0.0"
     }
 }
