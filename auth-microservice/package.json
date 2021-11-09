@@ -70,15 +70,15 @@
         "lodash": "^4.17.21",
         "method-override": "^3.0.0",
         "moment-timezone": "^0.5.33",
-        "mongoose": "^6.0.10",
+        "mongoose": "^6.0.12",
         "passport": "^0.5.0",
         "randombytes": "^2.1.0",
         "winston": "^3.3.3"
     },
     "devDependencies": {
-        "eslint": "^7.32.0",
-        "eslint-config-airbnb-base": "^14.2.1",
-        "eslint-plugin-import": "^2.24.2",
-        "@types/node": "^16.10.3"
+        "eslint": "^8.2.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.25.2",
+        "@types/node": "^16.11.7"
     }
 }
