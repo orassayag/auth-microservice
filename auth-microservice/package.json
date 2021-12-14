@@ -79,6 +79,6 @@
         "eslint": "^8.4.1",
         "eslint-config-airbnb-base": "^15.0.0",
         "eslint-plugin-import": "^2.25.3",
-        "@types/node": "^16.11.12"
+        "@types/node": "^16.11.13"
     }
 }
