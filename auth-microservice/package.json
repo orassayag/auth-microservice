@@ -65,7 +65,7 @@
         "express-validation": "^3.0.8",
         "helmet": "^5.0.2",
         "http-status": "^1.5.0",
-        "joi": "^17.5.0",
+        "joi": "^17.6.0",
         "jsonwebtoken": "^8.5.1",
         "lodash": "^4.17.21",
         "method-override": "^3.0.0",
@@ -73,7 +73,7 @@
         "mongoose": "^6.1.8",
         "passport": "^0.5.2",
         "randombytes": "^2.1.0",
-        "winston": "^3.4.0"
+        "winston": "^3.5.0"
     },
     "devDependencies": {
         "eslint": "^8.7.0",
