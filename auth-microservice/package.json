@@ -70,10 +70,10 @@
         "lodash": "^4.17.21",
         "method-override": "^3.0.0",
         "moment-timezone": "^0.5.34",
-        "mongoose": "^6.2.9",
+        "mongoose": "^6.2.10",
         "passport": "^0.5.2",
         "randombytes": "^2.1.0",
-        "winston": "^3.6.0"
+        "winston": "^3.7.2"
     },
     "devDependencies": {
         "eslint": "^8.12.0",
