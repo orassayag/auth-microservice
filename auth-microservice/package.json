@@ -65,7 +65,7 @@
         "express-validation": "^4.1.0",
         "helmet": "^6.0.1",
         "http-status": "^1.6.2",
-        "joi": "^17.7.0",
+        "joi": "^17.7.1",
         "jsonwebtoken": "^9.0.0",
         "lodash": "^4.17.21",
         "method-override": "^3.0.0",
@@ -76,7 +76,7 @@
         "winston": "^3.8.2"
     },
     "devDependencies": {
-        "eslint": "^8.33.0",
+        "eslint": "^8.34.0",
         "eslint-config-airbnb-base": "^15.0.0",
         "eslint-plugin-import": "^2.27.5",
         "@types/node": "^18.13.0"
