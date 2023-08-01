@@ -7,10 +7,11 @@ Built in June 2021. A simple auth microservice, inspired by https://github.com/d
 For development, you will only need Node.js and a node global package, Yarn, installed in your environnement.
 
 ### Node
+
 - #### Node installation on Windows
 
   Just go on [official Node.js website](https://nodejs.org) and download the installer.
-Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com)).
+  Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com)).
 
 - #### Node installation on Ubuntu
 
@@ -35,8 +36,10 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ npm install npm -g
 
 ###
+
 ### Yarn installation
-  After installing node, this project will need yarn too, so just run the following command.
+
+After installing node, this project will need yarn too, so just run the following command.
 
       $ npm install -g yarn
 
@@ -50,12 +53,12 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Author
 
-* **Or Assayag** - *Initial work* - [orassayag](https://github.com/orassayag)
-* Or Assayag <orassayag@gmail.com>
-* GitHub: https://github.com/orassayag
-* StackOverFlow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://linkedin.com/in/orassayag
+- **Or Assayag** - _Initial work_ - [orassayag](https://github.com/orassayag)
+- Or Assayag <orassayag@gmail.com>
+- GitHub: https://github.com/orassayag
+- StackOverFlow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+- LinkedIn: https://linkedin.com/in/orassayag
 
 ## License
 
-This application has UNLICENSED license.
+This application has MIT license.
