@@ -70,7 +70,7 @@
     "lodash": "^4.17.21",
     "method-override": "^3.0.0",
     "moment-timezone": "^0.5.43",
-    "mongoose": "^7.6.4",
+    "mongoose": "^8.0.0",
     "passport": "^0.6.0",
     "randombytes": "^2.1.0",
     "winston": "^3.11.0"
@@ -79,6 +79,6 @@
     "eslint": "^8.52.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.29.0",
-    "@types/node": "^20.8.9"
+    "@types/node": "^20.8.10"
   }
 }
