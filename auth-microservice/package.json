@@ -69,7 +69,7 @@
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "method-override": "^3.0.0",
-    "moment-timezone": "^0.5.45",
+    "moment-timezone": "^0.5.46",
     "mongoose": "^8.7.0",
     "passport": "^0.7.0",
     "randombytes": "^2.1.0",
