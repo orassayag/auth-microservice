@@ -69,13 +69,13 @@
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "method-override": "^3.0.0",
-    "moment-timezone": "^0.5.47",
-    "mongoose": "^8.12.1",
+    "moment-timezone": "^0.5.48",
+    "mongoose": "^8.13.0",
     "passport": "^0.7.0",
     "randombytes": "^2.1.0",
     "winston": "^3.17.0"
   },
   "devDependencies": {
-    "eslint": "^9.22.0"
+    "eslint": "^9.23.0"
   }
 }
