@@ -58,7 +58,7 @@
     "bluebird": "^3.7.2",
     "compression": "^1.8.1",
     "cors": "^2.8.5",
-    "cross-env": "^7.0.3",
+    "cross-env": "^10.0.0",
     "death": "^1.1.0",
     "dotenv-safe": "^9.1.0",
     "express": "^5.1.0",
