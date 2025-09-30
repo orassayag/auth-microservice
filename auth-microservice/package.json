@@ -58,7 +58,7 @@
     "bluebird": "^3.7.2",
     "compression": "^1.8.1",
     "cors": "^2.8.5",
-    "cross-env": "^10.0.0",
+    "cross-env": "^10.1.0",
     "death": "^1.1.0",
     "dotenv-safe": "^9.1.0",
     "express": "^5.1.0",
@@ -70,7 +70,7 @@
     "lodash": "^4.17.21",
     "method-override": "^3.0.0",
     "moment-timezone": "^0.6.0",
-    "mongoose": "^8.18.2",
+    "mongoose": "^8.18.3",
     "passport": "^0.7.0",
     "randombytes": "^2.1.0",
     "winston": "^3.17.0"
