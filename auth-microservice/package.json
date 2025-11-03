@@ -54,7 +54,7 @@
     "kill": "taskkill -f -im node.exe"
   },
   "dependencies": {
-    "bcryptjs": "^3.0.2",
+    "bcryptjs": "^3.0.3",
     "bluebird": "^3.7.2",
     "compression": "^1.8.1",
     "cors": "^2.8.5",
