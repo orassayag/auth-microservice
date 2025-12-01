@@ -61,7 +61,7 @@
     "cross-env": "^10.1.0",
     "death": "^1.1.0",
     "dotenv-safe": "^9.1.0",
-    "express": "^5.1.0",
+    "express": "^5.2.1",
     "express-validation": "^4.1.1",
     "helmet": "^8.1.0",
     "http-status": "^2.1.0",
