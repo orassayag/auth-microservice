@@ -73,7 +73,7 @@
     "mongoose": "^9.0.1",
     "passport": "^0.7.0",
     "randombytes": "^2.1.0",
-    "winston": "^3.18.3"
+    "winston": "^3.19.0"
   },
   "devDependencies": {
     "eslint": "^9.39.1"
