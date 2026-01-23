@@ -57,7 +57,7 @@
     "bcryptjs": "^3.0.3",
     "bluebird": "^3.7.2",
     "compression": "^1.8.1",
-    "cors": "^2.8.5",
+    "cors": "^2.8.6",
     "cross-env": "^10.1.0",
     "death": "^1.1.0",
     "dotenv-safe": "^9.1.0",
